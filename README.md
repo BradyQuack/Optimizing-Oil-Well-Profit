@@ -1,5 +1,5 @@
 # Optimizing Oil Well Profit
-View project: [Optimizing Oil Well Profit]()
+View project: [Optimizing Oil Well Profit](https://github.com/BradyQuack/Optimizing-Oil-Well-Profit/blob/main/Project9.ipynb)
 ## Project Overview:
 ## Data Description:
 Geological exploration data for the three regions are stored in files:
