@@ -1,6 +1,7 @@
 # Optimizing Oil Well Profit
 View project: [Optimizing Oil Well Profit](https://github.com/BradyQuack/Optimizing-Oil-Well-Profit/blob/main/Project9.ipynb)
 ## Project Overview:
+This project tackles the challenge of maximizing profitability in oil well development by strategically selecting the most promising region for drilling. Leveraging synthetic geological exploration datasets from three regions, the project uses linear regression models to predict oil reserve volumes and bootstrapping techniques to assess profit distributions and associated risks.
 ## Data Description:
 Geological exploration data for the three regions are stored in files:
 
